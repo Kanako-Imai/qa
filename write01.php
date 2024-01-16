@@ -39,7 +39,7 @@ fclose($file);
     <h2>./data/data.txt を確認しましょう！</h2>
 
     <ul>
-        <li><a href="write01.php">戻る</a></li>
+        <li><a href="post01.php">戻る</a></li>
     </ul>
 </body>
 
