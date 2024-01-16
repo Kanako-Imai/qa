@@ -1,5 +1,5 @@
 2024-01-16 12:24:59,今井香菜子,三菱商事マシナリ,s0502027@yahoo.co.jp,high,draft,a,yes,a
 2024-01-16 15:37:22,今井香菜子,三菱商事マシナリ,kanako.imai@mcm.mitsubishicorp.com,high,TODO,test,no,test
 2024-01-16 15:38:38,今井香菜子,三菱商事マシナリ,kanako.imai@mcm.mitsubishicorp.com,high,TODO,test,no,test
-2024-01-16 15:41:16,今井香菜子,三菱商事マシナリ,kanako.imai@mcm.mitsubishicorp.com,high,guide,a,yes,a
+2024-01-16 15:52:10,今井香菜子,三菱商事マシナリ,kanako.imai@mcm.mitsubishicorp.com,high,guide,a,no,a
 
